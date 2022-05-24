@@ -1,1 +1,1 @@
-const newWord : string;
+const newWord:string;
